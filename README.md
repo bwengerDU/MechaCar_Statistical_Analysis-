@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project I am assisting with a special project aimed at identifying productions pitfalls afflicting an automotive production team. R is used to perform all of these statistical analyses. I utilized multiple liner regression analyses to identify variables needed to predict mpg of each the prototypes. I created summary statistics revolving around the PSI of suspension coils from manufacturing lots. I ran t-tests to determine if these manufacturing lots are statistically different. Finally, I had to run a comprehensive study to compare the company's product against those of their competitors. 
+In this project I am assisting with a special project aimed at identifying productions pitfalls afflicting an automotive production team. R is used to perform all of these statistical analyses. I utilized multiple liner regression analyses to identify variables needed to predict mpg of each the prototypes. I created summary statistics revolving around the PSI of suspension coils from manufacturing lots. I ran t-tests to determine if these manufacturing lots are statistically different. Finally, I had to design a comprehensive study to compare the company's product against those of their competitors. 
 
 ## Results
 
@@ -19,7 +19,7 @@ In this project I am assisting with a special project aimed at identifying produ
 ![alt text](https://github.com/bwengerDU/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable2.png)
 ![alt text](https://github.com/bwengerDU/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable2.2.png)
 
-1. Given the parameters that the variance in suspension coils must not exceed 100 PSI we can see that the total production variance figures shown in the first image is 62.29 PSI which is well within the the acceptable range of acceptable variance. It is whne we delve into the individual lots in the second image that it becomes clear that Lots 1 and 2 are performing extremely well by having variance of only .98 and 7.47 PSI respectively. However, Lot 3 has variance of 170.29 and is the main contributor to suspension coil variance. MechaCar will need to investigate the manufacturing processes that occurred with Lot 3 and ideally have those processes meet those that were applied to Lot 1. 
+1. Given the parameters that the variance in suspension coils must not exceed 100 PSI we can see that the total production variance figures shown in the first image is 62.29 PSI which is well within the the acceptable range of acceptable variance. It is when we delve into the individual lots in the second image that it becomes clear that Lots 1 and 2 are performing extremely well by having variance of only .98 and 7.47 PSI respectively. However, Lot 3 has variance of 170.29 and is the main contributor to suspension coil variance. MechaCar will need to investigate the manufacturing processes that occurred with Lot 3 and ideally have those processes meet those that were applied to Lot 1. 
 
 ## T-Tests on Suspension Coils
 ![alt text](https://github.com/bwengerDU/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable3.1.png)
